@@ -1,0 +1,6 @@
+[submodule "extlib/tlx"]
+	path = extlib/tlx
+	url = https://github.com/tlx/tlx.git
+[submodule "extlib/range-v3"]
+	path = extlib/range-v3
+	url = https://github.com/ericniebler/range-v3

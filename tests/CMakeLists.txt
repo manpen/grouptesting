@@ -1,0 +1,3 @@
+add_executable(TestConfusionMatrix TestConfusionMatrix.cpp)
+target_link_libraries(TestConfusionMatrix range-v3 tlx)
+add_test(TestConfusionMatrix TestConfusionMatrix)
